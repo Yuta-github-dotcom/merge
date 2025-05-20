@@ -63,7 +63,7 @@ return work
 - 昇順に整列された整数型の配列（`data1` と `data2` の併合結果）
 
 ## 処理手順（擬似コード）
-
+````
 ```plaintext
 関数 merge(data1, data2)
     n1 ← data1 の要素数
@@ -98,7 +98,7 @@ return work
 
     return work
 end 関数
-````
+```
 
 
 
